@@ -11,12 +11,13 @@ To install the dependencies, follow these steps:
 
 ```bash
 poetry install
-
+```
 Run
 Simply run the say-hello script to greet:
 
 ```bash
 poetry run say-hello
+```
 
 Additional Features
 Add new features and functionality. Share your code with the community!
