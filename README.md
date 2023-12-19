@@ -1,3 +1,4 @@
+poetry run say-hello
 # Say Hello Python
 
 👋 Welcome to the Say Hello Python project!
@@ -14,6 +15,7 @@ poetry install
 Run
 Simply run the say-hello script to greet:
 
+```bash
 poetry run say-hello
 
 Additional Features
