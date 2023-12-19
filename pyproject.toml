@@ -12,6 +12,7 @@ urllib3 = "==1.26.7"
 
 [tool.poetry.group.dev.dependencies]
 ipython = "^8.18.1"
+flake8 = "^6.1.0"
 
 [tool.poetry.scripts]
 say-hello = "hello.scripts.say_hello:say_hello"
