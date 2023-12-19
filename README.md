@@ -1,4 +1,3 @@
-poetry run say-hello
 # Say Hello Python
 
 👋 Welcome to the Say Hello Python project!
@@ -12,15 +11,15 @@ To install the dependencies, follow these steps:
 ```bash
 poetry install
 ```
-Run
+## Run
 Simply run the say-hello script to greet:
 
 ```bash
 poetry run say-hello
 ```
 
-Additional Features
+## Additional Features
 Add new features and functionality. Share your code with the community!
 
-Acknowledgments
+## Acknowledgments
 Thank you for using the "Say Hello Python" project! 🚀
